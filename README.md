@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! 👋
+
+My name is Kailah, and I'm a current AI Undergrad interested in AI/ML and robotics!
+
+- 🔭 I'm currently working on a hand gesture recognising project using Python and OpenCV.
+  - If you have any good project ideas in mind, don't hesitate to send them my way! :)
 
 <!--
 **kolyps0/kolyps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
