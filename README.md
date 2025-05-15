@@ -1,8 +1,9 @@
 ## Hello! 👋
 
-My name is Kailah, and I'm a current AI Undergrad interested in AI/ML and robotics!
+My name is Kailah, and I'm a current AI Undergrad interested in AI/ML!
 
-- 🔭 I'm currently working on a hand gesture recognising project using Python and OpenCV.
+- 🔭 I'm currently teaching myself C++ so that I can have a go at competitive programming
+- 🌱 I'm also interested in ethical hacking, robotics and overall challenging myself
   - If you have any good project ideas in mind, don't hesitate to send them my way! :)
 
 <!--
