@@ -1,22 +1,20 @@
-## Hello! 👋
+### hey, I'm kolyps0 👋
+final year ai undergrad, building toward ai/ml, robotics and cybersecurity
 
-My name is Kailah, and I'm a current AI Undergrad interested in AI/ML!
+**currently**
+- deepening ML fundamentals - PyTorch, deployment, MLOps
+- getting into ROS 2 and robotics simulation
+- grinding LeetCode from scratch (NeetCode 150)
+- exploring the ML x security intersection
 
-- 🔭 I'm currently teaching myself C++ so that I can have a go at competitive programming
-- 🌱 I'm also interested in ethical hacking, robotics and overall challenging myself
-  - If you have any good project ideas in mind, don't hesitate to send them my way! :)
+**stack**
 
-<!--
-**kolyps0/kolyps0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**projects**
+- building out (check back soon)
