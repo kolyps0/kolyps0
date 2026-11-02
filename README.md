@@ -26,4 +26,4 @@ games         private servers, game ai, modding
 
 **languages** C++ • Python • Bash **robotics** ROS2 • Gazebo • RViz **ai/ml** PyTorch • NumPy • OpenCV **tools** Linux • Git • Docker • Tailscale
 
-**elsewhere** [twitter](x.com/kolyps0) • [letterboxd](letterboxd.com/kolypso)
+**elsewhere** [twitter](https://x.com/kolyps0) • [letterboxd](https://letterboxd.com/kolypso)
