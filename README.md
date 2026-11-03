@@ -24,6 +24,6 @@ games         private servers, game ai, modding
 |azerothcore-playerbots|self-hosted AzerothCore server on macOS with playerbots that chat through a local LLM, reachable remotely over a private mesh network|AzerothCore, Playerbots, Ollama, macOS, Tailscale|
 |jellyfin-homelab|headless MacBook running Jellyfin as an always-on media server, streamed to Apple TV|Jellyfin, macOS, Tailscale, Rivulet|
 
-**languages** C++ • Python • Bash **robotics** ROS2 • Gazebo • RViz **ai/ml** PyTorch • NumPy • OpenCV **tools** Linux • Git • Docker • Tailscale
+**languages** C++ • Python • Bash **robotics** ROS2 • Gazebo • RViz **ai/ml** PyTorch • NumPy • OpenCV **tools** Linux • Git • Tailscale
 
 **elsewhere** [twitter](https://x.com/kolyps0) • [letterboxd](https://letterboxd.com/kolypso)
