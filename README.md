@@ -11,11 +11,9 @@ games         private servers, game ai, modding
 ```
 
 **currently**
-- building: digimon-style virtual pet game
 - learning: *guide to competitive programming* and *real-world bug hunting*
-- grinding: CSES problem set in C++
 - tinkering: native ports of open-source game engines
-- playing: league, starcraft 2, maplestory classic
+- playing: league, wow forever, maplestory classic
 
 |project|what it is|stack|
 |---|---|---|
